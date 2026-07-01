@@ -1,3 +1,5 @@
+杜秋扬202411180016
+
 # SMPL 人体线性混合蒙皮 (Linear Blend Skinning, LBS) 手写复现
 
 本仓库包含计算机图形学（Computer Graphics）课程关于人体三维重建与运动学流水线（Kinematic Pipeline）的实验项目。本实验深入解析并手动手写复现了著名的 **SMPL (Skinned Multi-Person Linear Model)** 模型的核心前向计算流水线，消除了对高层 API 前向传播的依赖，且手写计算结果与官方结果达到 **100% 绝对对齐（零误差）**。
